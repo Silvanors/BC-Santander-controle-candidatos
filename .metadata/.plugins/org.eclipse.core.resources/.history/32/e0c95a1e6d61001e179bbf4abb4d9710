@@ -18,25 +18,7 @@ public class ProcessoSeletivo {
 		/*3º)
 		 * A chamada do método "selecaoCandidatos();" foi usado em fases anteriores
 		*/
-		
-		
-		/*
-		 * A chamada do método "imprimirSelecionados();" foi usado em fases anteriores
-		 */
-		
-		String [] candidatos = {"FELIPE","MARCIA","JULIA","PAULO","AUGUSTO"};
-		for (String candidato: candidatos) {
-			
-		}
-	}
-	
-	static void entrandoEmContato(String candidato) {
-		
-	}
-	
-	//método auxiliar
-	static boolean atender() {
-		return new Random().nextInt(3)==1;
+		imprimirSelecionados();
 	}
 	
 	static void imprimirSelecionados() {
