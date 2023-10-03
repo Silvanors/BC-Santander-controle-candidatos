@@ -10,6 +10,6 @@ www.dio.me
 
 2. Foram usados nesse projeto:
 * Método com controle de fluxos para organizar os cadidatos selecionados;
-* Método para avisar os candidatos selecionados com no máximo tem tentativas;
+* Método para avisar os candidatos selecionados com no máximo três tentativas;
 
 3. Foram utilizadas as classes Random() e ThreadLocalRandom() para auxiliar.
